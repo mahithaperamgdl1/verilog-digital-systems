@@ -1,0 +1,6 @@
+﻿*.vcd
+*.out
+work/
+*.jou
+*.log
+
